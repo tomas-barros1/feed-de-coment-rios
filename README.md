@@ -1,4 +1,4 @@
-# Comentários App
+# Aplicativo de feed de comentários
 
 Este é um aplicativo de comentários simples desenvolvido com React. Ele permite que os usuários enviem comentários com seu email e texto, que são então exibidos na tela.
 
